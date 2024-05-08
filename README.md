@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Allysson3
-- 👀 I’m interested in java and c#
-- 🌱 I’m currently learning java, c# and sql server
+- 👀 I’m interested in javascript, typescript and automation
+- 🌱 I'm currently learning test automation
 - 📫 How to reach me allyssoncosta32@gmail.com
 
 <!---
